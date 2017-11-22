@@ -1,0 +1,329 @@
+Year,Month,votos,partido,encuesta,id
+20/12/15,Diciembre,20.7,Podemos,Elecciones Generales 2015,1
+20/12/15,Diciembre,22,PSOE,Elecciones Generales 2015,1
+20/12/15,Diciembre,13.9,Ciudadanos,Elecciones Generales 2015,1
+20/12/15,Diciembre,28.7,PP,Elecciones Generales 2015,1
+11/1/16,Enero,25.6,Podemos,CIS,2
+11/1/16,Enero,20.5,PSOE,CIS,2
+11/1/16,Enero,13.3,Ciudadanos,CIS,2
+11/1/16,Enero,28.8,PP,CIS,2
+12/1/16,Enero,19.5,Podemos,Simple Lógica,3
+12/1/16,Enero,20.4,PSOE,Simple Lógica,3
+12/1/16,Enero,21.3,Ciudadanos,Simple Lógica,3
+12/1/16,Enero,30,PP,Simple Lógica,3
+15/1/16,Enero,25.4,Podemos,El Diario(Celeste - Tel),4
+15/1/16,Enero,21.9,PSOE,El Diario(Celeste - Tel),4
+15/1/16,Enero,12.6,Ciudadanos,El Diario(Celeste - Tel),4
+15/1/16,Enero,30.2,PP,El Diario(Celeste - Tel),4
+19/1/16,Enero,25,Podemos,Cadena Ser(My World),5
+19/1/16,Enero,21.3,PSOE,Cadena Ser(My World),5
+19/1/16,Enero,14.4,Ciudadanos,Cadena Ser(My World),5
+19/1/16,Enero,28,PP,Cadena Ser(My World),5
+21/1/16,Enero,22.9,Podemos,ABC(GAD 3),6
+21/1/16,Enero,21.3,PSOE,ABC(GAD 3),6
+21/1/16,Enero,13.4,Ciudadanos,ABC(GAD 3),6
+21/1/16,Enero,30.1,PP,ABC(GAD 3),6
+21/1/16,Enero,22.4,Podemos,La Razón(NC Report),7
+21/1/16,Enero,21.1,PSOE,La Razón(NC Report),7
+21/1/16,Enero,12,Ciudadanos,La Razón(NC Report),7
+21/1/16,Enero,30.7,PP,La Razón(NC Report),7
+1/2/16,Febrero,25.4,Podemos,La Sexta(InvyMark),8
+1/2/16,Febrero,21.1,PSOE,La Sexta(InvyMark),8
+1/2/16,Febrero,15.1,Ciudadanos,La Sexta(InvyMark),8
+1/2/16,Febrero,27.8,PP,La Sexta(InvyMark),8
+4/2/16,Febrero,24.2,Podemos,El País(Metroscopia),9
+4/2/16,Febrero,23.3,PSOE,El País(Metroscopia),9
+4/2/16,Febrero,18.5,Ciudadanos,El País(Metroscopia),9
+4/2/16,Febrero,24,PP,El País(Metroscopia),9
+5/2/16,Febrero,24.1,Podemos,El Diario(Celeste - Tel),10
+5/2/16,Febrero,22.4,PSOE,El Diario(Celeste - Tel),10
+5/2/16,Febrero,15.1,Ciudadanos,El Diario(Celeste - Tel),10
+5/2/16,Febrero,28.5,PP,El Diario(Celeste - Tel),10
+5/2/16,Febrero,24,Podemos,Simple Lógica,11
+5/2/16,Febrero,21.7,PSOE,Simple Lógica,11
+5/2/16,Febrero,20.3,Ciudadanos,Simple Lógica,11
+5/2/16,Febrero,26.9,PP,Simple Lógica,11
+11/2/16,Febrero,24.7,Podemos,ABC(GAD 3),12
+11/2/16,Febrero,20.8,PSOE,ABC(GAD 3),12
+11/2/16,Febrero,14.9,Ciudadanos,ABC(GAD 3),12
+11/2/16,Febrero,27.9,PP,ABC(GAD 3),12
+15/2/16,Febrero,24.9,Podemos,La Sexta(InvyMark),13
+15/2/16,Febrero,21.8,PSOE,La Sexta(InvyMark),13
+15/2/16,Febrero,16.2,Ciudadanos,La Sexta(InvyMark),13
+15/2/16,Febrero,26.4,PP,La Sexta(InvyMark),13
+18/2/16,Febrero,24.5,Podemos,La Razón(NC Report),14
+18/2/16,Febrero,21.4,PSOE,La Razón(NC Report),14
+18/2/16,Febrero,14.2,Ciudadanos,La Razón(NC Report),14
+18/2/16,Febrero,28.9,PP,La Razón(NC Report),14
+22/2/16,Febrero,26.6,Podemos,La Sexta(InvyMark),15
+22/2/16,Febrero,20.3,PSOE,La Sexta(InvyMark),15
+22/2/16,Febrero,15.8,Ciudadanos,La Sexta(InvyMark),15
+22/2/16,Febrero,26.8,PP,La Sexta(InvyMark),15
+23/2/16,Febrero,25.5,Podemos,El Confidencial(Sigma Dos),16
+23/2/16,Febrero,22.1,PSOE,El Confidencial(Sigma Dos),16
+23/2/16,Febrero,17.6,Ciudadanos,El Confidencial(Sigma Dos),16
+23/2/16,Febrero,25.6,PP,El Confidencial(Sigma Dos),16
+4/3/16,Marzo,24.4,Podemos,La Razón(NC Report),17
+4/3/16,Marzo,21.8,PSOE,La Razón(NC Report),17
+4/3/16,Marzo,14.9,Ciudadanos,La Razón(NC Report),17
+4/3/16,Marzo,29.2,PP,La Razón(NC Report),17
+5/3/16,Marzo,24.2,Podemos,El Diario(Celeste - Tel),18
+5/3/16,Marzo,22.6,PSOE,El Diario(Celeste - Tel),18
+5/3/16,Marzo,15.7,Ciudadanos,El Diario(Celeste - Tel),18
+5/3/16,Marzo,28.6,PP,El Diario(Celeste - Tel),18
+8/3/16,Marzo,24,Podemos,El Periódico(GESOP),19
+8/3/16,Marzo,21.9,PSOE,El Periódico(GESOP),19
+8/3/16,Marzo,17.8,Ciudadanos,El Periódico(GESOP),19
+8/3/16,Marzo,26.4,PP,El Periódico(GESOP),19
+9/3/16,Marzo,22.2,Podemos,El País(Metroscopia),20
+9/3/16,Marzo,23.1,PSOE,El País(Metroscopia),20
+9/3/16,Marzo,19.5,Ciudadanos,El País(Metroscopia),20
+9/3/16,Marzo,26,PP,El País(Metroscopia),20
+9/3/16,Marzo,23.3,Podemos,La Voz de Galicia(Sondaxe),21
+9/3/16,Marzo,22,PSOE,La Voz de Galicia(Sondaxe),21
+9/3/16,Marzo,15.6,Ciudadanos,La Voz de Galicia(Sondaxe),21
+9/3/16,Marzo,28.6,PP,La Voz de Galicia(Sondaxe),21
+9/3/16,Marzo,26.2,Podemos,Simple Lógica,22
+9/3/16,Marzo,21.6,PSOE,Simple Lógica,22
+9/3/16,Marzo,17.1,Ciudadanos,Simple Lógica,22
+9/3/16,Marzo,26.2,PP,Simple Lógica,22
+10/3/16,Marzo,21.9,Podemos,ABC(GAD 3),23
+10/3/16,Marzo,24.2,PSOE,ABC(GAD 3),23
+10/3/16,Marzo,18.7,Ciudadanos,ABC(GAD 3),23
+10/3/16,Marzo,28.2,PP,ABC(GAD 3),23
+11/3/16,Marzo,24.4,Podemos,La Razón(NC Report),24
+11/3/16,Marzo,22,PSOE,La Razón(NC Report),24
+11/3/16,Marzo,15.1,Ciudadanos,La Razón(NC Report),24
+11/3/16,Marzo,29.3,PP,La Razón(NC Report),24
+14/3/16,Marzo,23,Podemos,Cadena Ser(My World),25
+14/3/16,Marzo,20.9,PSOE,Cadena Ser(My World),25
+14/3/16,Marzo,18,Ciudadanos,Cadena Ser(My World),25
+14/3/16,Marzo,27,PP,Cadena Ser(My World),25
+17/3/16,Marzo,23.9,Podemos,La Razón(NC Report),26
+17/3/16,Marzo,22.1,PSOE,La Razón(NC Report),26
+17/3/16,Marzo,15.1,Ciudadanos,La Razón(NC Report),26
+17/3/16,Marzo,29.3,PP,La Razón(NC Report),26
+30/3/16,Marzo,22.8,Podemos,El País(Metroscopia),27
+30/3/16,Marzo,21,PSOE,El País(Metroscopia),27
+30/3/16,Marzo,18.8,Ciudadanos,El País(Metroscopia),27
+30/3/16,Marzo,27.7,PP,El País(Metroscopia),27
+2/4/16,Abril,23.8,Podemos,La Razón(NC Report),28
+2/4/16,Abril,21.9,PSOE,La Razón(NC Report),28
+2/4/16,Abril,15.5,Ciudadanos,La Razón(NC Report),28
+2/4/16,Abril,29.4,PP,La Razón(NC Report),28
+5/4/16,Abril,23.9,Podemos,El Diario(Celeste - Tel),29
+5/4/16,Abril,22.2,PSOE,El Diario(Celeste - Tel),29
+5/4/16,Abril,15.9,Ciudadanos,El Diario(Celeste - Tel),29
+5/4/16,Abril,29.1,PP,El Diario(Celeste - Tel),29
+6/4/16,Abril,25.5,Podemos,El Confidencial(Sigma Dos),30
+6/4/16,Abril,20.7,PSOE,El Confidencial(Sigma Dos),30
+6/4/16,Abril,15.2,Ciudadanos,El Confidencial(Sigma Dos),30
+6/4/16,Abril,29.2,PP,El Confidencial(Sigma Dos),30
+7/4/16,Abril,22.2,Podemos,ABC(GAD 3),31
+7/4/16,Abril,23.3,PSOE,ABC(GAD 3),31
+7/4/16,Abril,14.4,Ciudadanos,ABC(GAD 3),31
+7/4/16,Abril,29.2,PP,ABC(GAD 3),31
+8/4/16,Abril,24.8,Podemos,La Razón(NC Report),32
+8/4/16,Abril,21,PSOE,La Razón(NC Report),32
+8/4/16,Abril,15.5,Ciudadanos,La Razón(NC Report),32
+8/4/16,Abril,29.6,PP,La Razón(NC Report),32
+12/4/16,Abril,23.8,Podemos,Simple Lógica,33
+12/4/16,Abril,20.6,PSOE,Simple Lógica,33
+12/4/16,Abril,17.7,Ciudadanos,Simple Lógica,33
+12/4/16,Abril,28.3,PP,Simple Lógica,33
+14/4/16,Abril,23.5,Podemos,TNS Demoscopia,34
+14/4/16,Abril,22.3,PSOE,TNS Demoscopia,34
+14/4/16,Abril,15.8,Ciudadanos,TNS Demoscopia,34
+14/4/16,Abril,29.4,PP,TNS Demoscopia,34
+16/4/16,Abril,25.4,Podemos,La Razón(NC Report),35
+16/4/16,Abril,20.7,PSOE,La Razón(NC Report),35
+16/4/16,Abril,15.4,Ciudadanos,La Razón(NC Report),35
+16/4/16,Abril,29.8,PP,La Razón(NC Report),35
+28/4/16,Abril,24.7,Podemos,El País(Metroscopia),36
+28/4/16,Abril,20.3,PSOE,El País(Metroscopia),36
+28/4/16,Abril,16.9,Ciudadanos,El País(Metroscopia),36
+28/4/16,Abril,29,PP,El País(Metroscopia),36
+29/4/16,Abril,22.3,Podemos,ABC(GAD 3),37
+29/4/16,Abril,22.6,PSOE,ABC(GAD 3),37
+29/4/16,Abril,13.9,Ciudadanos,ABC(GAD 3),37
+29/4/16,Abril,29.3,PP,ABC(GAD 3),37
+29/4/16,Abril,25.5,Podemos,La Sexta(InvyMark),38
+29/4/16,Abril,19.4,PSOE,La Sexta(InvyMark),38
+29/4/16,Abril,15.4,Ciudadanos,La Sexta(InvyMark),38
+29/4/16,Abril,28.7,PP,La Sexta(InvyMark),38
+3/5/16,Mayo,24.5,Podemos,Público,39
+3/5/16,Mayo,20.3,PSOE,Público,39
+3/5/16,Mayo,16.6,Ciudadanos,Público,39
+3/5/16,Mayo,27.8,PP,Público,39
+6/5/16,Mayo,24.4,Podemos,El Diario(Celeste - Tel),40
+6/5/16,Mayo,22.5,PSOE,El Diario(Celeste - Tel),40
+6/5/16,Mayo,15.5,Ciudadanos,El Diario(Celeste - Tel),40
+6/5/16,Mayo,29.2,PP,El Diario(Celeste - Tel),40
+6/5/16,Mayo,23.1,Podemos,CIS,41
+6/5/16,Mayo,21.6,PSOE,CIS,41
+6/5/16,Mayo,15.6,Ciudadanos,CIS,41
+6/5/16,Mayo,27.4,PP,CIS,41
+7/5/16,Mayo,24.7,Podemos,La Razón(NC Report),42
+7/5/16,Mayo,20.8,PSOE,La Razón(NC Report),42
+7/5/16,Mayo,15,Ciudadanos,La Razón(NC Report),42
+7/5/16,Mayo,30.2,PP,La Razón(NC Report),42
+10/5/16,Mayo,22.1,Podemos,Simple Lógica,43
+10/5/16,Mayo,21.5,PSOE,Simple Lógica,43
+10/5/16,Mayo,17.7,Ciudadanos,Simple Lógica,43
+10/5/16,Mayo,29.9,PP,Simple Lógica,43
+12/5/16,Mayo,24.9,Podemos,La Razón(NC Report),44
+12/5/16,Mayo,21,PSOE,La Razón(NC Report),44
+12/5/16,Mayo,14.7,Ciudadanos,La Razón(NC Report),44
+12/5/16,Mayo,30.2,PP,La Razón(NC Report),44
+15/5/16,Mayo,23.7,Podemos,El Español,45
+15/5/16,Mayo,19.7,PSOE,El Español,45
+15/5/16,Mayo,14.7,Ciudadanos,El Español,45
+15/5/16,Mayo,30.8,PP,El Español,45
+16/5/16,Mayo,24.2,Podemos,La Sexta(InvyMark),46
+16/5/16,Mayo,20.1,PSOE,La Sexta(InvyMark),46
+16/5/16,Mayo,15.1,Ciudadanos,La Sexta(InvyMark),46
+16/5/16,Mayo,29.6,PP,La Sexta(InvyMark),46
+18/5/16,Mayo,23.2,Podemos,El País(Metroscopia),47
+18/5/16,Mayo,20,PSOE,El País(Metroscopia),47
+18/5/16,Mayo,15.5,Ciudadanos,El País(Metroscopia),47
+18/5/16,Mayo,29.9,PP,El País(Metroscopia),47
+20/5/16,Mayo,24.3,Podemos,Tiempo,48
+20/5/16,Mayo,21.2,PSOE,Tiempo,48
+20/5/16,Mayo,15.1,Ciudadanos,Tiempo,48
+20/5/16,Mayo,29.4,PP,Tiempo,48
+23/5/16,Mayo,24.9,Podemos,La Razón(NC Report),49
+23/5/16,Mayo,21.1,PSOE,La Razón(NC Report),49
+23/5/16,Mayo,14.5,Ciudadanos,La Razón(NC Report),49
+23/5/16,Mayo,30.4,PP,La Razón(NC Report),49
+26/5/16,Mayo,24.2,Podemos,El Diario(Celeste - Tel),50
+26/5/16,Mayo,22,PSOE,El Diario(Celeste - Tel),50
+26/5/16,Mayo,14.9,Ciudadanos,El Diario(Celeste - Tel),50
+26/5/16,Mayo,29.5,PP,El Diario(Celeste - Tel),50
+30/5/16,Mayo,22.5,Podemos,ABC(GAD 3),51
+30/5/16,Mayo,21.6,PSOE,ABC(GAD 3),51
+30/5/16,Mayo,14.8,Ciudadanos,ABC(GAD 3),51
+30/5/16,Mayo,29.6,PP,ABC(GAD 3),51
+30/5/16,Mayo,24.7,Podemos,La Razón(NC Report),52
+30/5/16,Mayo,21.3,PSOE,La Razón(NC Report),52
+30/5/16,Mayo,14.2,Ciudadanos,La Razón(NC Report),52
+30/5/16,Mayo,30.5,PP,La Razón(NC Report),52
+31/5/16,Mayo,24.8,Podemos,Cadena Ser(My World),53
+31/5/16,Mayo,20.7,PSOE,Cadena Ser(My World),53
+31/5/16,Mayo,14.2,Ciudadanos,Cadena Ser(My World),53
+31/5/16,Mayo,29.2,PP,Cadena Ser(My World),53
+31/5/16,Mayo,24.3,Podemos,Universitat de València,54
+31/5/16,Mayo,21.9,PSOE,Universitat de València,54
+31/5/16,Mayo,13.3,Ciudadanos,Universitat de València,54
+31/5/16,Mayo,29.3,PP,Universitat de València,54
+1/6/16,Junio,25.6,Podemos,El País(Metroscopia),55
+1/6/16,Junio,20.2,PSOE,El País(Metroscopia),55
+1/6/16,Junio,16.6,Ciudadanos,El País(Metroscopia),55
+1/6/16,Junio,28.5,PP,El País(Metroscopia),55
+1/6/16,Junio,24.1,Podemos,Público,56
+1/6/16,Junio,21.7,PSOE,Público,56
+1/6/16,Junio,14.8,Ciudadanos,Público,56
+1/6/16,Junio,28.7,PP,Público,56
+4/6/16,Junio,24.3,Podemos,El Español,57
+4/6/16,Junio,25.6,Podemos,El País,58
+4/6/16,Junio,21.6,PSOE,El Español,57
+4/6/16,Junio,20.2,PSOE,El País,58
+4/6/16,Junio,15.4,Ciudadanos,El Español,57
+4/6/16,Junio,15.6,Ciudadanos,El País,58
+4/6/16,Junio,27.7,PP,El Español,57
+4/6/16,Junio,28.5,PP,El País,58
+5/6/16,Junio,27.3,Podemos,El Mundo,59
+5/6/16,Junio,20.3,PSOE,El Mundo,59
+5/6/16,Junio,14,Ciudadanos,El Mundo,59
+5/6/16,Junio,31,PP,El Mundo,59
+6/6/16,Junio,24.5,Podemos,La Razón(NC Report),60
+6/6/16,Junio,21.4,PSOE,La Razón(NC Report),60
+6/6/16,Junio,13.9,Ciudadanos,La Razón(NC Report),60
+6/6/16,Junio,30.5,PP,La Razón(NC Report),60
+7/6/16,Junio,24.4,Podemos,El Diario(Celeste - Tel),61
+7/6/16,Junio,22.1,PSOE,El Diario(Celeste - Tel),61
+7/6/16,Junio,14.3,Ciudadanos,El Diario(Celeste - Tel),61
+7/6/16,Junio,29.7,PP,El Diario(Celeste - Tel),61
+8/6/16,Junio,24.8,Podemos,La Sexta(InvyMark),62
+8/6/16,Junio,20,PSOE,La Sexta(InvyMark),62
+8/6/16,Junio,14.4,Ciudadanos,La Sexta(InvyMark),62
+8/6/16,Junio,30.1,PP,La Sexta(InvyMark),62
+9/6/16,Junio,25.6,Podemos,CIS,63
+9/6/16,Junio,21.2,PSOE,CIS,63
+9/6/16,Junio,14.6,Ciudadanos,CIS,63
+9/6/16,Junio,29.2,PP,CIS,63
+27/5/16,Mayo,24.4,Podemos,Europa Press,64
+27/5/16,Mayo,20.4,PSOE,Europa Press,64
+27/5/16,Mayo,14.7,Ciudadanos,Europa Press,64
+27/5/16,Mayo,29.8,PP,Europa Press,64
+20/6/16,Junio,24.9,Podemos,ABC(GAD 3),65
+20/6/16,Junio,21.2,PSOE,ABC(GAD 3),65
+20/6/16,Junio,14.1,Ciudadanos,ABC(GAD 3),65
+20/6/16,Junio,30.7,PP,ABC(GAD 3),65
+18/6/16,Junio,31.1,PP,La Razón(NC Report),66
+18/6/16,Junio,25.4,Podemos,La Razón(NC Report),66
+18/6/16,Junio,21.2,PSOE,La Razón(NC Report),66
+18/6/16,Junio,13.2,Ciudadanos,La Razón(NC Report),66
+19/6/16,Junio,30.1,PP,La Sexta(InvyMark),67
+19/6/16,Junio,26.1,Podemos,La Sexta(InvyMark),67
+19/6/16,Junio,19.9,PSOE,La Sexta(InvyMark),67
+19/6/16,Junio,13.8,Ciudadanos,La Sexta(InvyMark),67
+19/6/16,Junio,28.3,PP,El Periódico(GESOP),68
+19/6/16,Junio,24,Podemos,El Periódico(GESOP),68
+19/6/16,Junio,21.9,PSOE,El Periódico(GESOP),68
+19/6/16,Junio,14.9,Ciudadanos,El Periódico(GESOP),68
+19/6/16,Junio,29.6,PP,TNS Demoscopia,69
+19/6/16,Junio,24.7,Podemos,TNS Demoscopia,69
+19/6/16,Junio,21,PSOE,TNS Demoscopia,69
+19/6/16,Junio,14.8,Ciudadanos,TNS Demoscopia,69
+17/6/16,Junio,30.4,PP,El Español,70
+17/6/16,Junio,24,Podemos,El Español,70
+17/6/16,Junio,20.4,PSOE,El Español,70
+17/6/16,Junio,15.2,Ciudadanos,El Español,70
+9/6/16,Junio,29.2,PP,La Voz de Galicia(Sondaxe),71
+9/6/16,Junio,26.1,Podemos,La Voz de Galicia(Sondaxe),71
+9/6/16,Junio,21.4,PSOE,La Voz de Galicia(Sondaxe),71
+9/6/16,Junio,12.9,Ciudadanos,La Voz de Galicia(Sondaxe),71
+17/6/16,Junio,30.5,PP,El Diario(Celeste - Tel),72
+17/6/16,Junio,25.3,Podemos,El Diario(Celeste - Tel),72
+17/6/16,Junio,21.8,PSOE,El Diario(Celeste - Tel),72
+17/6/16,Junio,13.3,Ciudadanos,El Diario(Celeste - Tel),72
+14/6/16,Junio,29.8,PP,El Diario(Celeste - Tel),73
+14/6/16,Junio,24.9,Podemos,El Diario(Celeste - Tel),73
+14/6/16,Junio,22,PSOE,El Diario(Celeste - Tel),73
+14/6/16,Junio,13.8,Ciudadanos,El Diario(Celeste - Tel),73
+12/6/16,Junio,29,PP,TNS Demoscopia,74
+12/6/16,Junio,24.5,Podemos,TNS Demoscopia,74
+12/6/16,Junio,21.3,PSOE,TNS Demoscopia,74
+12/6/16,Junio,15.6,Ciudadanos,TNS Demoscopia,74
+15/6/16,Junio,29.2,PP,Simple Lógica,75
+15/6/16,Junio,23.5,Podemos,Simple Lógica,75
+15/6/16,Junio,22.5,PSOE,Simple Lógica,75
+15/6/16,Junio,15.4,Ciudadanos,Simple Lógica,75
+16/6/16,Junio,28.9,PP,SER (My World),76
+16/6/16,Junio,24.8,Podemos,SER (My World),76
+16/6/16,Junio,20.4,PSOE,SER (My World),76
+16/6/16,Junio,14.4,Ciudadanos,SER (My World),76
+9/6/16,Junio,29.8,PP,La Vanguardia (GAD3),77
+9/6/16,Junio,24.3,Podemos,La Vanguardia (GAD3),77
+9/6/16,Junio,21.4,PSOE,La Vanguardia (GAD3),77
+9/6/16,Junio,14.9,Ciudadanos,La Vanguardia (GAD3),77
+15/6/16,Junio,29,PP,El País(Metroscopia),78
+15/6/16,Junio,26,Podemos,El País(Metroscopia),78
+15/6/16,Junio,20.5,PSOE,El País(Metroscopia),78
+15/6/16,Junio,14.5,Ciudadanos,El País(Metroscopia),78
+16/6/16,Junio,30.5,PP,El Mundo (Sigma Dos),79
+16/6/16,Junio,24.8,Podemos,El Mundo (Sigma Dos),79
+16/6/16,Junio,20,PSOE,El Mundo (Sigma Dos),79
+16/6/16,Junio,14.1,Ciudadanos,El Mundo (Sigma Dos),79
+15/6/16,Junio,29,PP,El Confidencial(Sigma Dos),80
+15/6/16,Junio,24.9,Podemos,El Confidencial(Sigma Dos),80
+15/6/16,Junio,21,PSOE,El Confidencial(Sigma Dos),80
+15/6/16,Junio,15.2,Ciudadanos,El Confidencial(Sigma Dos),80
+15/6/16,Junio,30.3,PP,ABC(GAD 3),81
+15/6/16,Junio,24.6,Podemos,ABC(GAD 3),81
+15/6/16,Junio,21.4,PSOE,ABC(GAD 3),81
+15/6/16,Junio,14.4,Ciudadanos,ABC(GAD 3),81
+17/6/16,Junio,28.8,PP,20 Minutos (A+M),82
+17/6/16,Junio,24.3,Podemos,20 Minutos (A+M),82
+17/6/16,Junio,21.7,PSOE,20 Minutos (A+M),82
+17/6/16,Junio,16.2,Ciudadanos,20 Minutos (A+M),82
